@@ -1,0 +1,24 @@
+.main{
+    margin-top: 10%;
+    margin-left: 6%
+}
+.mainClick{
+    margin-top: 2%;
+}
+.first{
+    margin-left:11px;
+}
+.tbl{
+  background: rgb(255, 255, 255);
+
+}
+th,td
+{
+  border: 1px solid rgb(1, 2, 1);
+}
+.topRow{
+  background-color: rgb(240, 233, 233);
+}
+body{
+    background-color: rgb(237, 243, 237);
+}
